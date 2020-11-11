@@ -18,4 +18,9 @@ public interface SysUserService {
      * @return
      */
     SysUser selectByPrimaryKey(Long id);
+
+    /**
+    * 插入新的记录
+    * */
+    int insert(SysUser record);
 }

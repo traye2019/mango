@@ -25,4 +25,9 @@ public class SysUserServiceImpl implements SysUserService {
     public SysUser selectByPrimaryKey(Long id) {
         return sysUserMapper.selectByPrimaryKey(id);
     }
+
+    @Override
+    public   int insert(SysUser record){
+        return   sysUserMapper.insert(record);
+    }
 }
