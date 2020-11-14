@@ -1,4 +1,4 @@
-package com.louis.mango.config;
+package com.louis.mangoadmin.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.druid.support.http.StatViewServlet;

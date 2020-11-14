@@ -1,4 +1,4 @@
-package com.louis.mango.model;
+package com.louis.mangoadmin.model;
 
 import java.util.Date;
 

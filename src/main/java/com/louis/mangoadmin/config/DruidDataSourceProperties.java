@@ -1,4 +1,4 @@
-package com.louis.mango.config;
+package com.louis.mangoadmin.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

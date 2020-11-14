@@ -1,8 +1,8 @@
-package com.louis.mango.service;
+package com.louis.mangoadmin.service;
 
 import java.util.List;
 
-import com.louis.mango.model.SysUser;
+import com.louis.mangoadmin.model.SysUser;
 
 public interface SysUserService {
 

@@ -1,8 +1,8 @@
-package com.louis.mango.dao;
+package com.louis.mangoadmin.dao;
 
 import java.util.List;
 
-import com.louis.mango.model.SysUser;
+import com.louis.mangoadmin.model.SysUser;
 
 public interface SysUserMapper {
     int deleteByPrimaryKey(Long id);

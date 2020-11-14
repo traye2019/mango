@@ -1,13 +1,12 @@
-package com.louis.mango.controller;
+package com.louis.mangoadmin.controller;
 
 import io.swagger.annotations.ApiImplicitParam;
-import org.apache.ibatis.annotations.Param;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.louis.mango.service.SysUserService;
+import com.louis.mangoadmin.service.SysUserService;
 
 @RestController
 @RequestMapping("user")

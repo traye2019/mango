@@ -1,4 +1,4 @@
-package com.louis.mango.config;
+package com.louis.mangoadmin.config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
